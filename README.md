@@ -1,6 +1,8 @@
  ## On-chain EVM Agent-Based DeFi Simulator
 
+<!-- 
  Here is the project report to get context and more details about it: [on-chain EVM agent-based DeFi simulator.pdf](https://github.com/clementroure/EVM-DeFi-Simulator/files/13298439/Internship_Report-8.pdf)
+ -->
 
  I am currently refining it in Rust using Anvil and Forge (from Foundry) instead of Hardhat.
 
